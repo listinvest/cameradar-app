@@ -15,3 +15,5 @@
 
 # Vendor
 vendor
+server/vendor
+native/vendor
